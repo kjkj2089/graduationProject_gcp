@@ -1,0 +1,8 @@
+com\google\cloud\examples\storage\StorageExample$1.class
+com\google\cloud\examples\dns\DnsExample$1.class
+com\google\cloud\examples\logging\LoggingExample$1.class
+com\google\cloud\examples\compute\deprecated\ComputeExample$1.class
+com\google\cloud\examples\bigquery\BigQueryExample$1.class
+com\google\cloud\examples\datastore\DatastoreExample$1.class
+com\google\cloud\examples\translate\TranslateExample$1.class
+com\google\cloud\examples\resourcemanager\ResourceManagerExample$1.class
